@@ -1,2 +1,4 @@
 # Kubernetes
-Kubernetes design and Basic Functions
+1. Installation
+
+[Other information related to k8s coming soon :)]
