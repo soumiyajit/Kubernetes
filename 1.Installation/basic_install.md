@@ -2,7 +2,7 @@
 
 **- Considerations:**
 
-- Installation guide for Ubuntu18.0 
+- Installation guide for Ubuntu 18.04
 - Container Runtime used is docker
 - CNI used is calico
 - HW required is minimum 6GB RAM and 2 cores
